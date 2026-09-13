@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows/Linux LLM Speed Lab"
+  short_description: "Measured CPU, GPU and multi-GPU inference optimization"
+  default_prompt: "Use $windows-linux-llm-speed-lab to inspect my setup, adapt the reference engine lessons into native machine-specific patches, and deploy measured improvements with rollback while preserving my model and capabilities."

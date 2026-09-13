@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Silicon LLM Speed Lab"
+  short_description: "Measured GPU, ANE, unified memory and SSD optimization"
+  default_prompt: "Use $apple-silicon-llm-speed-lab to inspect my setup, use the reference engine lessons to build and validate applicable machine-specific patches, and deploy measured improvements with rollback while preserving my model and capabilities."
