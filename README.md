@@ -1,4 +1,6 @@
-# Local LLM Speed Labs
+# Local LLM Speedsup
+
+Thanks Astra.
 
 Experimental, implementation-oriented skills for improving local LLM performance
 with measured results and checks for answer, reasoning and tool-use regressions.
